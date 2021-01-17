@@ -1,6 +1,6 @@
 # COVID-19 Informations
 
-Il file `covid_italia.py` contiene le informazioni relative al COVID-19 nello stato italiano, mentre `covid_global` fornisce i dati su scala globale.
+Il file `covid_italia.py` contiene le informazioni relative al COVID-19 nello stato italiano, mentre `covid_global.py` fornisce i dati su scala globale.
 
 *NOTA: l'assistente vocale è settato per la lingua italiana.*
 
