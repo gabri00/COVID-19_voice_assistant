@@ -7,7 +7,7 @@ Il file `covid_italia.py` contiene le informazioni relative al COVID-19 nello st
 ## COVID-19 Italia
 
 Le informazioni sono aggiornate quotidianamente alle 18:30 e vengono forniti:
-- Dati andamento nazionale
+- Dati nazionali
 - Dati regionionali
 
 Per tutti gli avvisi aggiornati riferirsi alla pagina **[avvisi](https://github.com/pcm-dpc/COVID-19/blob/master/avvisi.md)** della repository della **[Protezione Civile](https://github.com/pcm-dpc/COVID-19)**.
@@ -15,5 +15,5 @@ Per tutti gli avvisi aggiornati riferirsi alla pagina **[avvisi](https://github.
 ## COVID-19 Global
 
 Le informazioni fornite sono:
-- Dati andamento nazionale
-- Dati regionionali
+- Dati andamento globale
+- Dati singole nazioni
