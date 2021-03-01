@@ -6,7 +6,7 @@ Il file `covid_italia.py` contiene le informazioni relative al COVID-19 nello st
 
 ## COVID-19 Italia
 
-Le informazioni sono aggiornate quotidianamente alle 18:30 e vengono forniti:
+Le informazioni disponibili sono:
 - Dati nazionali
 - Dati regionionali
 
